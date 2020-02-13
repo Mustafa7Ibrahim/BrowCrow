@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958034541975",
+    "firebase_url": "https://brow-crow.firebaseio.com",
+    "project_id": "brow-crow",
+    "storage_bucket": "brow-crow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958034541975:android:11686b595f385d1ea998d2",
+        "android_client_info": {
+          "package_name": "com.example.brow_crow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958034541975-sg1vg8o3olcgnmeg869cr7g7vobtg1lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP_tNOGsax27Pu1wEQMmRGeJRdaNnXFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958034541975-sg1vg8o3olcgnmeg869cr7g7vobtg1lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
