@@ -10,7 +10,6 @@ class BrowTile extends StatelessWidget {
     return Padding(
       padding: EdgeInsets.only(top: 8.0),
       child: Card(
-        
         elevation: 24.0,
         margin: EdgeInsets.fromLTRB(16.0, 8.0, 16.0, 0.0),
         child: ListTile(
